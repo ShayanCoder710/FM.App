@@ -312,7 +312,7 @@ CPU Frequency: {psutil.cpu_freq().current:.2f} MHz
 		case "app":            
 			print(f"""{Fore.LIGHTBLUE_EX}The name of the operating system : FM.App
 Operating system version : 2.0
-Developer name : SHAYAN-FM{Style.RESET_ALL}""")
+Developer name : ShayanCoder{Style.RESET_ALL}""")
 			
 		case "star":
 			github = "https://github.com/ShayanCoder710/FM.App.git"
