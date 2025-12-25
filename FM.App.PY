@@ -315,7 +315,7 @@ Operating system version : 2.0
 Developer name : SHAYAN-FM{Style.RESET_ALL}""")
 			
 		case "star":
-			github = "https://github.com/SHAYAN-FM/FM.App.git"
+			github = "https://github.com/ShayanCoder710/FM.App.git"
 			webbrowser.open(github)
 
 		case "":
